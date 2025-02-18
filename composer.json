@@ -1,5 +1,6 @@
 {
     "name": "jankalach/package1",
+    "version": "1.0.0",
     "description": "Můj první balíček",
     "type": "library",
     "license": "MIT",
