@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Package1\\": "src/"
+            "Package1\\": "../src/"
         }
     },
     "authors": [
