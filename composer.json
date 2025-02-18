@@ -15,5 +15,6 @@
             "email": "jan.kalach@example.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
