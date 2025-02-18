@@ -1,0 +1,18 @@
+{
+    "name": "jankalach/package1",
+    "description": "Můj první balíček",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Package1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Kalach",
+            "email": "jan.kalach@example.com"
+        }
+    ],
+    "require": {}
+}
